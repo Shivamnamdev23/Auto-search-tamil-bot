@@ -210,7 +210,7 @@ Nᴀᴍᴇ - {}"""
 🌿 ʙʏ : <a href='t.me/crazybotz'>ᴄʀᴀᴢʏ</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>​ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛ ꜰᴏʀ ʏᴏᴜʀ {query}
+<b>​ʜᴇʏ ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛ ꜰᴏʀ ʏᴏᴜʀ {qurey}
 
 🦢 {title}
 
